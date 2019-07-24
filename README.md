@@ -1,6 +1,6 @@
 # Scraper Selenium
 
-Scraper Selenium is crawçer to retrieve proxy ips.
+Scraper Selenium is crawler to retrieve proxy ips.
 
 ## Installation
 
